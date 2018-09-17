@@ -13,3 +13,7 @@ h1 {
   text-align: center;
   padding: 20px;
 }
+
+.App.profilePhoto {
+	clip-path: circle(60px 40px at 75px 30px);
+}
